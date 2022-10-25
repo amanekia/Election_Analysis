@@ -16,12 +16,11 @@ When we run the code we get the following ttxt file as an ouput:
 We can use the above output to answer the following questions:
 - How many votes were cast in this congressional election?
   369,711 Votes were cast
-- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct
--
+
 - Which county had the largest number of votes?
   Denver with 82.8% of the total votes or 306,055 people who voted were from Denver County
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+ 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-Diana DeGettee was the winner of the election with a vote count of 272,892 which equivalets to 73.8% of the total votes.
+  Diana DeGettee was the winner of the election with a vote count of 272,892 which equivalets to 73.8% of the total votes.
 
 ## Election-Audit Summary
