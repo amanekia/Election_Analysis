@@ -7,7 +7,9 @@ In this project we were given a csv file which contained the election results. W
 - The county with the highest turnout
 
 ## Election-Audit Results
-When we run the code we get the following ttxt file as an ouput
+
+When we run the code we get the following ttxt file as an ouput:
+
 <img width="296" alt="Screen Shot 2022-10-25 at 5 47 11 PM" src="https://user-images.githubusercontent.com/44278585/197888572-a3f92116-4f16-4a04-9b34-c2e71a9d402a.png">
 
 
