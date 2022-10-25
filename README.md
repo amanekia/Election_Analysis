@@ -27,3 +27,5 @@ When we run the code we get the following text file as an ouput:
     Diana DeGettee was the winner of the election with a vote count of 272,892 which equivalets to 73.8% of the total votes.
 
 ## Election-Audit Summary
+
+The benefit of using python is that the code we wrote can be used to get the same data for any election that has a csv file. The only code that would need to be changed is the variable that we use to load a file from the path and the varibale used to save the file to a path. 
