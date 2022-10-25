@@ -8,19 +8,22 @@ In this project we were given a csv file which contained the election results. W
 
 ## Election-Audit Results
 
-When we run the code we get the following ttxt file as an ouput:
+When we run the code we get the following text file as an ouput:
 
 <img width="296" alt="Screen Shot 2022-10-25 at 5 47 11 PM" src="https://user-images.githubusercontent.com/44278585/197888572-a3f92116-4f16-4a04-9b34-c2e71a9d402a.png">
 
 
-We can use the above output to answer the following questions:
-- How many votes were cast in this congressional election?  
+**We can use the above output to answer the following questions:**
+- How many votes were cast in this congressional election?
+  
     369,711 Votes were cast
 
 - Which county had the largest number of votes?
+
     Denver with 82.8% of the total votes or 306,055 people who voted were from Denver County
  
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
     Diana DeGettee was the winner of the election with a vote count of 272,892 which equivalets to 73.8% of the total votes.
 
 ## Election-Audit Summary
