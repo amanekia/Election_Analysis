@@ -28,7 +28,7 @@ When we run the code we get the following text file as an ouput:
 
 ## Election-Audit Summary
 
-The benefit of using python is that the code we wrote can be used to get the same data for any election that has its ballots stored in a csv file. The only code that would need to be changed is the variable that we use to load a file from the path and the varibale used to save the file to a path.
+The benefit of using python is that the code we wrote can be used to get the same data for any election that has its ballots stored in a csv file. The only code that would need to be changed is the variable that we use to load a file from the path and the variable used to save the file to a path.
 
 <img width="517" alt="Screen Shot 2022-10-26 at 8 42 05 PM" src="https://user-images.githubusercontent.com/44278585/198164751-51c6b349-a196-41b9-bd23-4882d1bbf378.png">
 
